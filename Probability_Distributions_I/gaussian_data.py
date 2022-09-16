@@ -2,6 +2,15 @@ import matplotlib.pyplot as plt
 import numpy as np
 import scipy.stats as st
 
+
+"""
+Figure is from:
+A novel microglial subset plays a key
+role in myelinogenesis in developing brain
+Wlodarczyk et. al. (2017)
+"""
+
+# Set distribution parameters
 mu = 8
 sigma = 1 #10
 N = int(1e4)
